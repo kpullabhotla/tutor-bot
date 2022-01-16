@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3af99672-b56a-4991-9d12-c5ec0f65d9d3/resourceGroups/test/providers/Microsoft.Web/sites/tutorbot-qna-bot-be1b",
+    "appService.deploySubpath": ".vscode"
+}
